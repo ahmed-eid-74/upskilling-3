@@ -1,0 +1,240 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font: 1em sans-serif;
+}
+#Home{
+    background-image: url(slider_1.jpg);
+background-size: 100% 100%;
+    height: 100vh;
+    
+}
+#Home .navbar{
+margin-left: 50px;
+font-size: 20px;
+
+
+}
+#Home .navbar .h{
+    display: inline-block;
+    margin-left: 800px;
+    color: aliceblue;
+ 
+}
+
+#Home .caption{
+
+text-align: center;
+padding: 50px;
+margin: 50px;
+color: aliceblue;
+}
+.caption h1{
+padding: 20px;
+}
+.caption p{
+    padding: 20px;
+}
+.caption button{
+    margin: 20px;
+    font-size: 20px;
+    padding: 10px;
+   border-radius: 10%;
+    color: rgb(247, 243, 241);
+   border: 3px solid #fff;
+   background-color: transparent;
+}
+#About{
+    margin: 30px auto;
+    text-align: center;
+}
+#Portoflio{
+    
+    width: 50%;
+    float: left;
+}
+#Portoflio .img img{
+   width: 100%;
+}
+.content{
+background-color: rgb(19, 19, 70);
+float: left;
+width: 50%;
+line-height: 28px;
+
+
+}
+.content h4{
+color: rgba(169, 169, 169, 0.377);
+margin-left: 50px; 
+padding-left: 30px;
+margin: 25px;
+}
+.content  h1{
+    color:#fff;
+    margin-left: 50px; 
+padding-left: 30px;
+margin: 25px;
+}
+.content .p1{
+    color: rgba(169, 169, 169, 0.377);
+    line-height: 20px;
+    margin: 30px 20px;
+}
+.content .p2{
+    color: rgba(169, 169, 169, 0.377);
+    line-height: 20px;
+    margin: 30px 20px;
+}
+.content .bu1{
+ 
+   margin-left: 50px; 
+   padding-left: 30px;
+   margin: 10px;
+   cursor: pointer;
+}
+.content .bu2{
+    background-color: rgb(19, 19, 70);
+    color: #fff;
+    border-radius: 50px;
+    font-size: 30px;
+    border: 1px solid ;
+   height: 50px;
+   padding: 10px;
+   cursor: pointer;
+}
+.content .bu3{
+    background-color: rgb(199, 171, 15);
+    color: #fff;
+    border-radius: 50px;
+    font-size: 30px;
+    border: 1px solid ;
+   height: 50px;
+   padding: 10px;
+   margin-left: 40px;
+   padding-left: 30px;
+   cursor: pointer;
+}
+.cler{
+    clear: both;
+}
+#contact{
+   width: 50%;
+   float:left
+}
+#contact .img img{
+    background-color: brown;
+    width: 100%;
+    }
+ .cont{
+    padding-top: 50px;
+    background-color: rgb(19, 19, 70);
+    float: left;
+    width: 50%;
+ line-height: 30px;
+    
+}
+.cont h4{
+    margin-left: 30px;
+    padding-left: 30px;
+    color: rgba(169, 169, 169, 0.377);
+}
+.cont h1{
+    color: #fff;
+    font-size: 30px;
+    margin-left: 30px;
+    padding-left: 30px;
+}
+.cont .p1{
+    color: rgba(169, 169, 169, 0.377);
+    line-height: 20px;
+    margin: 30px 20px;
+}
+.cont .p2{
+    color: rgba(169, 169, 169, 0.377);
+    line-height: 20px;
+    margin: 30px 20px;
+}
+.cont .bu3{
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid ;
+    border-radius: 50px;
+    height: 20px;
+    margin: 20px;
+    padding: 30px;
+}
+.cler{
+    clear: both;
+}
+#Portoflio2{
+    width: 50%;
+    float: left;
+   
+}
+#Portoflio2 .img img{
+    width: 100%;
+   
+}
+.contents{
+    background-color: rgb(19, 19, 70);
+    float: left;
+    width: 50%;
+    line-height: 90px;
+    margin-bottom: 30px;
+   
+   
+}
+.contents h4{
+    color: rgba(169, 169, 169, 0.377);
+    margin-left: 50px; 
+    padding-left: 30px;
+    margin: 25px;
+    line-height: 20px;
+    }
+    .contents  h1{
+        color:#fff;
+        margin-left: 50px; 
+    padding-left: 30px;
+    margin: 50px;
+    }
+    .contents .p1s{
+        color: rgba(169, 169, 169, 0.377);
+        line-height: 20px;
+        margin: 40px ;
+
+    }
+    .contents .p2s{
+        color: rgba(169, 169, 169, 0.377);
+        line-height: 20px;
+        margin: 40px ;
+
+    }
+    .contents .p3s{
+        color: rgba(169, 169, 169, 0.377);
+        line-height: 20px;
+        margin: 40px ;
+    }
+    .contents .p4s{
+        color: rgba(169, 169, 169, 0.377);
+        line-height: 20px;
+        margin: 40px ;
+    }
+    .contents .bu3s{
+    background-color: transparent;
+        color: #fff;
+        border-radius: 50px;
+        font-size: 30px;
+        border: 1px solid ;
+       height: 50px;
+       padding: 10px;
+       margin-left: 40px;
+       padding-left: 30px;
+    }
+
+.cler{
+    clear: both;
+}
